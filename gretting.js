@@ -1,3 +1,4 @@
+/*이름을 제출해서 local storage에 저장할 수 있게 하는  js파일*/
 const form = document.querySelector(".js-form"),
     input = form.querySelector("input"),
     greeting = document.querySelector(".js-greetings")

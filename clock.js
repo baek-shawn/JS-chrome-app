@@ -1,3 +1,4 @@
+/*시계를 만들어주는 js파일*/ 
 const clockContainer = document.querySelector(".js-clock"), 
 clockTitle=clockContainer.querySelector("h1");              //dom을 이용해서 html에 변화를 주기 위해 태그 선택
                                                             
